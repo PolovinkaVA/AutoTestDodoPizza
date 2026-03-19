@@ -1,0 +1,4 @@
+selenium
+pytest
+python-docx
+webdriver-manager
